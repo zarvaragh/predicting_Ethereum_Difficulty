@@ -1,0 +1,16 @@
+.home-background {
+  background: url(neurons.jpg);
+  background-size: cover;
+  background-size: 100% 100%;
+  min-height: 100%;
+  max-height: 100%;
+  display: block;
+  margin: auto;
+  background-repeat: no-repeat;
+}
+.chart {
+  height: 90vh;
+}
+.home-container {
+  margin: 10px;
+}

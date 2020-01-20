@@ -1,0 +1,10 @@
+.home-rt-chart {
+    margin: 30px;
+    padding: 5px;
+    border: solid;
+    background-color: bisque;
+}
+
+.main-container {
+    background: url(neurons.jpg);
+}
